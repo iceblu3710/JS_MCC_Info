@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+#reference {
+  width: 100px;
+  height: 100px;
+  border: 2px dashed black;
+  margin: 100px;
+}
+
+#floating:empty {
+  display: none;
+}
+
+#floating {
+  position: absolute;
+  background: rgb(209, 209, 209);
+  padding: 0.5rem;
+  color: black;
+  box-shadow: 0px 0px 20px 20px rgb(209, 209, 209);
+}

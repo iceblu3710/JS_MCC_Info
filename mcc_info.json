@@ -1,0 +1,30 @@
+{
+  "MILL": {
+    "MCC 501A": {
+      "M1-IL-404": {
+        "column": "3",
+        "description": "Industrial line airlock #2",
+        "controled_by": "BL_02 West rack in blender controls room",
+        "io": "F_STOP: BL_02:06:I/14, AUX: BL_02:06:I/14, CMD: BL_02:07:O/14"
+      },
+      "M1-IL-405": {
+        "column": "3",
+        "description": "Industrial line airlock #2",
+        "controled_by": "BL_02 West rack in blender controls room",
+        "io": "F_STOP: BL_02:06:I/14, AUX: BL_02:06:I/14, CMD: BL_02:07:O/14"
+      },
+      "M1-IL-406": {
+        "column": "3",
+        "description": "Industrial line airlock #2",
+        "controled_by": "BL_02 West rack in blender controls room",
+        "io": "F_STOP: BL_02:06:I/14, AUX: BL_02:06:I/14, CMD: BL_02:07:O/14"
+      },
+      "M1-IL-407": {
+        "column": "3",
+        "description": "Industrial line airlock #2",
+        "controled_by": "BL_02 West rack in blender controls room",
+        "io": "F_STOP: BL_02:06:I/14, AUX: BL_02:06:I/14, CMD: BL_02:07:O/14"
+      }
+    }
+  }
+}
